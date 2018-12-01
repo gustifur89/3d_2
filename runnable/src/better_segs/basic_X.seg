@@ -1,0 +1,7 @@
+FILE src/better_segs_meshes/basic_X.ply
+TYPE CROSS
+nodes 4
+NODE JOINT 0 1 0 180
+NODE JOINT 2 1 2 270
+NODE JOINT -2 1 2 90
+NODE JOINT 0 1 4 0

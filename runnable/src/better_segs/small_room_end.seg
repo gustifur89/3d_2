@@ -1,0 +1,6 @@
+FILE src/better_segs_meshes/small_room_end.ply
+TYPE END
+nodes 3
+NODE JOINT 0 1 0 180
+NODE WALL_OBJECT 0 0 6 180
+NODE SPAWN 0 1 4 0

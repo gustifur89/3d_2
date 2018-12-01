@@ -1,0 +1,4 @@
+FILE src/better_segs_meshes/cap.ply
+TYPE CAP
+nodes 1
+NODE JOINT 0 1 0 180

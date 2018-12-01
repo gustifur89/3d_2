@@ -1,0 +1,5 @@
+FILE src/better_segs_meshes/small_room_end2.ply
+TYPE END
+nodes 2
+NODE JOINT 0 1 0 180
+NODE WALL_OBJECT 6 0 3 90

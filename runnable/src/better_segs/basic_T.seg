@@ -1,0 +1,6 @@
+FILE src/better_segs_meshes/basic_T.ply
+TYPE T
+nodes 3
+NODE JOINT 0 1 0 180
+NODE JOINT 2 1 2 270
+NODE JOINT -2 1 2 90

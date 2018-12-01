@@ -1,0 +1,7 @@
+FILE src/better_segs_meshes/room_2.ply
+TYPE END
+nodes 4
+NODE JOINT 0 1 0 180
+NODE WALL_OBJECT -2 0 19 180
+NODE WALL_OBJECT -9 0 15 270
+NODE SPAWN -6 1 4 0

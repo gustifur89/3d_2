@@ -1,0 +1,5 @@
+FILE src/better_segs_meshes/basic_hall_R.ply
+TYPE RIGHT
+nodes 2
+NODE JOINT 0 1 0 180
+NODE JOINT -2 1 2 90

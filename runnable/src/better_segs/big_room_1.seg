@@ -1,0 +1,6 @@
+FILE src/better_segs_meshes/big_room_1.ply
+TYPE ROOM
+nodes 3
+NODE JOINT 0 1 0 180
+NODE JOINT -8 1 5 90
+NODE OBJECT 0 0 6 0

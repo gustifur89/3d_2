@@ -1,0 +1,7 @@
+FILE src/better_segs_meshes/silo.ply
+TYPE ROOM
+nodes 4
+NODE JOINT 0 1 0 180
+NODE JOINT 11 1 11 270
+NODE JOINT -11 1 11 90
+NODE JOINT 0 1 22 0
