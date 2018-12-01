@@ -1,0 +1,6 @@
+FILE src/better_segs_meshes/el2.ply
+TYPE ELEVATOR
+nodes 3
+NODE JOINT 0 1 0 180
+NODE JOINT 0 -6 0 180
+NODE JOINT 0 -13 0 180

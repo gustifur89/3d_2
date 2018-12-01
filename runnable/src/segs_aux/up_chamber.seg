@@ -1,0 +1,5 @@
+FILE src/better_segs_meshes/up_chamber.ply
+TYPE ELEVATOR
+nodes 2
+NODE JOINT 0 1 0 180
+NODE JOINT 0 9 10 0
